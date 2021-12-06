@@ -13,7 +13,7 @@
 
 Skills: **MERN Stack** | **JavaScript** | **Python** | **Java** | **Flutter** | **Flask** | **C** |
 
-<h1 align="center"> 📊 Stats: </h1>
+<!-- <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,7 +24,12 @@ Skills: **MERN Stack** | **JavaScript** | **Python** | **Java** | **Flutter** | 
   </a>
   <br>
  
-</p>
+</p> -->
+## By the way here are some of my statistics 🚀
+![sushovanpaul07's github stats](https://github-readme-stats.vercel.app/api?username=sushovanpaul07&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushovanpaul07&theme=tokyonight" alt="mystreak"/>
+![sushovanpaul07's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushovanpaul07&theme=tokyonight&layout=compact)
+
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   
